@@ -1,0 +1,14 @@
+FRAMMENTI DISPERSI DEL METAVERSO - HOME PAGE
+
+1) Apri index.html in un browser per vedere il sito.
+2) Copia i tuoi PDF nella cartella pdf/.
+3) In index.html, trova "const libri = [...]" e assegna i nomi esatti dei PDF.
+4) Puoi sostituire le miniature nella cartella assets/ con le copertine dei tuoi manoscritti.
+5) Pubblica l'intera cartella su un hosting statico, preservando la struttura.
+
+ATTENZIONE: i PDF NON sono inclusi. Finché non copi i file indicati, i pulsanti di lettura
+non apriranno manoscritti reali. Le cinque immagini della galleria sono ritagli illustrativi
+dell'immagine generata, non le copertine effettive dei libri.
+
+Per Google Sites, puoi incorporare l'URL di questo sito una volta pubblicato su un
+hosting. Google Sites non esegue direttamente un file HTML caricato come allegato.
